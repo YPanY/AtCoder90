@@ -12,6 +12,7 @@ for i in range(w):
     y[i] = cnt
 
 x = [0] * h
+
 for i in range(h):
     cnt = 0
     for j in range(w):
