@@ -13,7 +13,6 @@ for i in range(w):
 
 x = [0] * h
 
-
 for i in range(h):
     cnt = 0
     for j in range(w):
